@@ -29,4 +29,3 @@ print("        Minutes: "+str(((t2-t1)/60)))
 print("        Seconds: "+str((t2-t1)))
 
 ```
-

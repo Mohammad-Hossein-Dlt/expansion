@@ -1,8 +1,3 @@
-
-# How to use?
-
-
-
 ## Usage/Examples
 
 ```python
